@@ -1,0 +1,3 @@
+путь в проводнике:
+
+\\wsl$\docker-desktop-data\data\docker\volumes

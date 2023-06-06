@@ -1,0 +1,11 @@
+{
+  "name": "js-app",
+  "version": "1.0.0",
+  "description": "Поиск слова в массиве на JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "hog",
+  "license": "ISC"
+}

@@ -1,0 +1,5 @@
+ssh ec2-user@linux.telran-edu.de
+
+
+этой командой устанавливается ssh доступ к серверу TER-RAN
+
